@@ -1,0 +1,8 @@
+{
+  "name": "meshtastic",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
